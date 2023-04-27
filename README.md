@@ -28,7 +28,7 @@ Windows Presentataion Foundation
 	
 4일차 MVVM View
 
-<img src="https://github.com/KOOJAIN/pknu-wpf-2023/blob/main/1.png?raw=true" width="700" />
+<img src="https://github.com/KOOJAIN/pknu-wpf-2023/blob/main/image/1.png?raw=true" width="700" />
 
 ## 5일차
 - WPF 응용

@@ -80,4 +80,6 @@ Windows Presentataion Foundation
         - 데이터포털 OpenAPI
         - 네이버, 카카오 OpenAPI
         - 기다 OpenAPI
-<img src="https://github.com/KOOJAIN/pknu-wpf-2023/blob/main/image/5.png?raw=true" width="700" />       
+        
+9일차 미세먼지확인 앱
+<img src="https://github.com/KOOJAIN/pknu-wpf-2023/blob/main/image/6.gif?raw=true" width="700" />       

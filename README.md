@@ -82,4 +82,8 @@ Windows Presentataion Foundation
         - 기다 OpenAPI
         
 9일차 미세먼지확인 앱
-<img src="https://github.com/KOOJAIN/pknu-wpf-2023/blob/main/image/6.gif?raw=true" width="700" />       
+<img src="https://github.com/KOOJAIN/pknu-wpf-2023/blob/main/image/6.gif?raw=true" width="700" />     
+
+## 10일차
+10일차 농수산시장 앱
+<img src="https://github.com/KOOJAIN/pknu-wpf-2023/blob/main/image/7.gif?raw=true" width="700" />  

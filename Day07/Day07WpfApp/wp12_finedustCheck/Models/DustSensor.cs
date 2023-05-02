@@ -23,7 +23,7 @@ namespace wp12_finedustCheck.Models
       "company_id": "bcdbe35acf834d64bf4e7ed5fdf1cf94",
       "company_name": "미세먼지 센서" */
         public int Id { get; set; }
-        public string Dev_id { get; set; }
+  
         public string Name { get; set;}
         public string Loc { get; set;}
         public double Coordx { get; set;}
